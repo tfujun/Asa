@@ -1,0 +1,2 @@
+﻿2024-06-22 15:40:56.097 INFO  Logging to 'D:\src\Asa\Sheesh.Operations.Inventory\bin\Debug\net8.0\' with level Info
+2024-06-22 15:40:56.162 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-22'.
