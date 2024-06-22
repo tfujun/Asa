@@ -1,0 +1,13 @@
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\bin\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.deps.json
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\bin\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\bin\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.pdb
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.csproj.AssemblyReference.cache
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.AssemblyInfoInputs.cache
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.AssemblyInfo.cs
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.csproj.CoreCompileInputs.cache
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.sourcelink.json
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\refint\Sheesh.Operations.Inventory.ServiceContracts.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\Sheesh.Operations.Inventory.ServiceContracts.pdb
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.ServiceContracts\obj\Debug\net8.0\ref\Sheesh.Operations.Inventory.ServiceContracts.dll

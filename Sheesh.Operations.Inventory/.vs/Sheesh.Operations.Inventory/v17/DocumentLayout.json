@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECAA1E4B-2370-4B6C-8D57-56329E7635FD}|Sheesh.Operations.Inventory.csproj|d:\\src\\asa\\sheesh.operations.inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECAA1E4B-2370-4B6C-8D57-56329E7635FD}|Sheesh.Operations.Inventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A81D5FEA-5BC4-4DA0-A380-B87B80938192}|Sheesh.Operations.Inventory.Application\\Sheesh.Operations.Inventory.Application.csproj|d:\\src\\asa\\sheesh.operations.inventory\\sheesh.operations.inventory.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81D5FEA-5BC4-4DA0-A380-B87B80938192}|Sheesh.Operations.Inventory.Application\\Sheesh.Operations.Inventory.Application.csproj|solutionrelative:sheesh.operations.inventory.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81D5FEA-5BC4-4DA0-A380-B87B80938192}|Sheesh.Operations.Inventory.Application\\Sheesh.Operations.Inventory.Application.csproj|d:\\src\\asa\\sheesh.operations.inventory\\sheesh.operations.inventory.application\\dosomethinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81D5FEA-5BC4-4DA0-A380-B87B80938192}|Sheesh.Operations.Inventory.Application\\Sheesh.Operations.Inventory.Application.csproj|solutionrelative:sheesh.operations.inventory.application\\dosomethinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C487410E-8703-4151-8850-1DCD116EDD1E}|Sheesh.Operations.Inventory.ServiceContracts\\Sheesh.Operations.Inventory.ServiceContracts.csproj|d:\\src\\asa\\sheesh.operations.inventory\\sheesh.operations.inventory.servicecontracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C487410E-8703-4151-8850-1DCD116EDD1E}|Sheesh.Operations.Inventory.ServiceContracts\\Sheesh.Operations.Inventory.ServiceContracts.csproj|solutionrelative:sheesh.operations.inventory.servicecontracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoSomethingHandler.cs",
+              "DocumentMoniker": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\DoSomethingHandler.cs",
+              "RelativeDocumentMoniker": "Sheesh.Operations.Inventory.Application\\DoSomethingHandler.cs",
+              "ToolTip": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\DoSomethingHandler.cs",
+              "RelativeToolTip": "Sheesh.Operations.Inventory.Application\\DoSomethingHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:29:49.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.ServiceContracts\\Class1.cs",
+              "RelativeDocumentMoniker": "Sheesh.Operations.Inventory.ServiceContracts\\Class1.cs",
+              "ToolTip": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.ServiceContracts\\Class1.cs",
+              "RelativeToolTip": "Sheesh.Operations.Inventory.ServiceContracts\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:25:44.305Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "DocumentMoniker": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\Program.cs",
+              "RelativeDocumentMoniker": "Sheesh.Operations.Inventory.Application\\Program.cs",
+              "ToolTip": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\Program.cs",
+              "RelativeToolTip": "Sheesh.Operations.Inventory.Application\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:09:37.111Z",
+              "WhenOpened": "2024-06-22T06:19:18.719Z",
               "EditorCaption": ""
             }
           ]

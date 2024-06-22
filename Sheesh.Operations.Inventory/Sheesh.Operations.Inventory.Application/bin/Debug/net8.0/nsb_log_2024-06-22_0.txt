@@ -1,0 +1,27 @@
+﻿2024-06-22 16:40:58.016 INFO  Logging to 'D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\' with level Info
+2024-06-22 16:40:58.094 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-22'.
+2024-06-22 16:40:58.310 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-22 16:41:00.756 INFO  Sending DoSomething command
+2024-06-22 16:41:22.925 INFO  Logging to 'D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\' with level Info
+2024-06-22 16:41:22.999 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-22'.
+2024-06-22 16:41:23.189 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-22 16:41:38.711 INFO  Logging to 'D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\' with level Info
+2024-06-22 16:41:38.784 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-22'.
+2024-06-22 16:41:38.989 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-22 16:41:41.525 INFO  Sending DoSomething command
+2024-06-22 16:41:41.756 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-22 16:41:41.785 INFO  Received DoSomething, SomeProperty = Hello world
+2024-06-22 16:41:45.454 INFO  Sending DoSomething command
+2024-06-22 16:41:45.459 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-22 16:41:45.480 INFO  Received DoSomething, SomeProperty = Hello world
+2024-06-22 16:41:46.504 INFO  Sending DoSomething command
+2024-06-22 16:41:46.508 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-22 16:41:46.515 INFO  Received DoSomething, SomeProperty = Hello world
+2024-06-22 16:41:47.555 INFO  Sending DoSomething command
+2024-06-22 16:41:48.304 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-22 16:41:48.322 INFO  Received DoSomething, SomeProperty = Hello world
+2024-06-22 16:41:49.084 INFO  Sending DoSomething command
+2024-06-22 16:41:49.088 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-22 16:41:49.112 INFO  Received DoSomething, SomeProperty = Hello world
+2024-06-22 16:41:50.900 INFO  Initiating shutdown.
+2024-06-22 16:41:50.906 INFO  Shutdown complete.
