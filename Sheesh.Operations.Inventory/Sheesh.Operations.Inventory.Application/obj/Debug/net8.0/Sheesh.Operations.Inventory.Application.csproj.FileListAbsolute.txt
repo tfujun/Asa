@@ -24,3 +24,15 @@ D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\o
 D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\obj\Debug\net8.0\Sheesh.Operations.Inventory.Application.pdb
 D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\obj\Debug\net8.0\Sheesh.Operations.Inventory.Application.genruntimeconfig.cache
 D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\obj\Debug\net8.0\ref\Sheesh.Operations.Inventory.Application.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Npgsql.dll
+D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

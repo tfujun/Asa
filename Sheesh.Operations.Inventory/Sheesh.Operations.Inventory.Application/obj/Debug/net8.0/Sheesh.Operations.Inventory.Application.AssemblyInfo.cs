@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sheesh.Operations.Inventory.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04db38ca770b9970af9ce774819624364c62910e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abd36966c97dbb04eab684bb7fad7d80e59fdeb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sheesh.Operations.Inventory.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sheesh.Operations.Inventory.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

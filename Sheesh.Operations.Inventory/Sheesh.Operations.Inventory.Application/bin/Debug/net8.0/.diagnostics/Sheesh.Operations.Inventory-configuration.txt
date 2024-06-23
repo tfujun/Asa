@@ -13,11 +13,51 @@
     "ErrorsThrownDuringScanning": false,
     "SkippedFiles": [
       {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.Abstractions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.Relational.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Caching.Abstractions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Caching.Memory.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Configuration.Abstractions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
         "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
         "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.DependencyInjection.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Logging.Abstractions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Logging.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Options.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Primitives.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -33,15 +73,11 @@
         "SkipReason": "File is not a .NET assembly."
       },
       {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Encoding.dll",
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Core.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Runtime.Loader.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net8.0\\System.Security.Cryptography.Pkcs.dll",
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Caching.Memory.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -73,11 +109,75 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Options.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.Relational.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Drawing.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Threading.Channels.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.Abstractions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Web.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Configuration.Abstractions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Caching.Abstractions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Diagnostics.Tools.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
         "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\System.Security.Cryptography.Xml.dll",
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Logging.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Logging.Abstractions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.IO.UnmanagedMemoryStream.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\Microsoft.Extensions.Primitives.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Diagnostics.Tracing.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Private.Xml.Linq.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -86,6 +186,14 @@
       },
       {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Globalization.Extensions.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net8.0\\System.Security.Cryptography.Pkcs.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "D:\\src\\Asa\\Sheesh.Operations.Inventory\\Sheesh.Operations.Inventory.Application\\bin\\Debug\\net8.0\\System.Security.Cryptography.Xml.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -157,10 +265,6 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Core.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Data.DataSetExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
@@ -205,22 +309,6 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Diagnostics.Tools.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Diagnostics.Tracing.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Drawing.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Windows.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
@@ -237,27 +325,7 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Cng.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Runtime.Serialization.Json.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.IO.Pipes.AccessControl.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Runtime.Serialization.Xml.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.IO.UnmanagedMemoryStream.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Csp.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -285,14 +353,6 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.ComponentModel.Annotations.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Primitives.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Resources.Reader.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
@@ -309,11 +369,35 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Runtime.Loader.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Runtime.Serialization.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Runtime.Serialization.Json.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Runtime.Serialization.Xml.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Algorithms.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Cng.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Csp.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Encoding.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -322,6 +406,14 @@
       },
       {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.OpenSsl.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.ComponentModel.Annotations.dll",
+        "SkipReason": "File is a .NET runtime assembly."
+      },
+      {
+        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Security.Cryptography.Primitives.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -378,10 +470,6 @@
       },
       {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Transactions.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Web.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -633,10 +721,6 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Private.Xml.Linq.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Reflection.Emit.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
@@ -698,10 +782,6 @@
       },
       {
         "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Text.RegularExpressions.dll",
-        "SkipReason": "File is a .NET runtime assembly."
-      },
-      {
-        "FilePath": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.5\\System.Threading.Channels.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -1232,7 +1312,7 @@
     "ProcessorCount": 16,
     "Is64BitProcess": true,
     "CLRVersion": "8.0.5",
-    "WorkingSet": 48574464,
+    "WorkingSet": 64802816,
     "SystemPageSize": 4096,
     "HostName": "TRAVIS-DESKTOP",
     "UserName": "User",

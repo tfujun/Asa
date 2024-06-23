@@ -1,0 +1,5 @@
+﻿2024-06-23 14:24:46.675 INFO  Logging to 'D:\src\Asa\Sheesh.Operations.Inventory\Sheesh.Operations.Inventory.Application\bin\Debug\net8.0\' with level Info
+2024-06-23 14:24:46.760 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-22'.
+2024-06-23 14:24:47.201 INFO  Press 'P' to place an order or 'Q' to quit.
+2024-06-23 14:24:53.075 INFO  Initiating shutdown.
+2024-06-23 14:24:53.082 INFO  Shutdown complete.
